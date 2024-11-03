@@ -1,0 +1,53 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 479px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Aguafina Script";
+  margin: 94px 504px 0 96px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Aguafina Script";
+  margin: 66px -26px 0 432px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Acme;
+  font-weight: 700;
+  margin: 65px 8px 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-weight: 400;
+    margin-right: 400px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 232px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 180px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
